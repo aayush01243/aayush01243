@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm Ayush, a software engiwneer based in India.
+
+I mostly work on backend stuff -- Java, JDBC, Spring, SpringBoot.
+
+I also use ORM Tools for Data Integration mostly Hibernate.
+
+This is fresh profile where I'll be uploading some smaller projects and things I'm currently working on.
+
+
 <!--
 **aayush01243/aayush01243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
